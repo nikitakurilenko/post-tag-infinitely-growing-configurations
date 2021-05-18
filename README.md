@@ -5,7 +5,7 @@
 
 
 
-This repository contains corresponding code for the paper ["Infinitely growing configurations in Emil Post's tag system problem"](https://arxiv.org/).
+This repository contains corresponding code for the paper ["Infinitely growing configurations in Emil Post's tag system problem"](https://arxiv.org/abs/2105.07529).
 The code from this page is copied to the **main.py** file, which can be executed in Python3 without any additional libraries required.
 
 
