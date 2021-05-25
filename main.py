@@ -21,7 +21,7 @@ def is_evolving(a, b):
             return True
     return False
 
-n = 20
+n = 100
 for i in range(n):
 
     if i % 10 == 0:
